@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
         var worldPoint = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 
         // 2. Đặt lại trục Z = 0 để đảm bảo tàu vẫn nằm trên mặt phẳng 2D
-        worldPoint.z = 0;
+        worldPoint.z = 10;
 
         // 3. Gán vị trí mới cho tàu
         transform.position = worldPoint;
