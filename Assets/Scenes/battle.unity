@@ -332,7 +332,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bulletPrefabs: {fileID: 3814675351511444165, guid: 4f77299275fabda4eb355b9aba6f58fd,
     type: 3}
-  shootingInterval: 0.1
+  shootingInterval: 0.2
 --- !u!1 &2033367887
 GameObject:
   m_ObjectHideFlags: 0
