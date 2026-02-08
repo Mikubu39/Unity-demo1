@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 1c135f1b4e9ec974bb291d16c78c7bda
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 256
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc14df99748b6e41a3e94ecfc41e6b6
+      internalID: -521850332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 329
+        width: 256
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f006c6065961f08469e9e11dec238e91
+      internalID: 1422716774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 329
+        width: 256
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c867458de031240a24dcb41d2499fb
+      internalID: -1833911425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 329
+        width: 256
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da0ff15275667145b769bd50f236827
+      internalID: 302455679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 329
+        width: 256
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f05b5e6cfb5a95479a0fbf19ff420ed
+      internalID: 1631399194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbccda8d2335bb4eae7ee73a552e49b
+      internalID: 1573047444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddeb4e0732347e4eb349a42b5e2b387
+      internalID: 1788444814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a5bc04aaba4834681ece8a04cd4b8f
+      internalID: -1345228649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a902ff285455d4ea3fb8d253fed4eb
+      internalID: 1937180184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e8d6ee6d7dd9b4da7cef486ed68e5e
+      internalID: -293198816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_0: -521850332
+      explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_1: 1422716774
+      explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_2: -1833911425
+      explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_3: 302455679
+      explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_4: 1631399194
+      explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_5: 1573047444
+      explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_6: 1788444814
+      explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_7: -1345228649
+      explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_8: 1937180184
+      explosion-cartoon-animation-smoke-and-fire-animation-frame-by-frame-comic-game-asset-of-bomb-blast-effect-game-sprite-of-dynamite-explosion-vector-Photoroom_9: -293198816
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
